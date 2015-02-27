@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "Jan Bölsche",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.1.1"
+  }
 }
